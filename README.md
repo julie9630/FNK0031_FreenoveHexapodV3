@@ -19,7 +19,7 @@ Estos links sirven de referencia para convertir el codigo de python a codigo bin
 utilizable por arduino para su posterior subida a la placa del robot.
 
 
-LIBRERIAS:
+[LIBRERIAS](https://github.com/julie9630/FNK0031_FreenoveHexapodV3/tree/main/Librerias):
 
 Las librerias utilizadas para el funcionamiento del robot vienen adjuntas en el repositorio de github, en total son 4 librerias en formato zip.
 
